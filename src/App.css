@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.mole-box{
+
+
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  
+}
